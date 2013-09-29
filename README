@@ -1,0 +1,1 @@
+run "mvn assembly:assembly" to build package
